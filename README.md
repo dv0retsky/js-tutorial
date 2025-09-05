@@ -14,6 +14,7 @@
 4. [**Диалоговые окна**](./JS4_Dialog%20boxes/JS4_Dialog%20boxes.md)
 5. [**Преобразование типов**](./JS5_Type%20Conversion/JS5_Type%20Conversion.md)
 6. [**Базовые математические операции**](./JS6_Basic%20Mathematical%20Operations/JS6_Basic%20Mathematical%20Operations.md)
+7. [**Операторы сравнения**](./JS7_Comparison%20Operators/JS7_Comparison%20Operators.md)
 
 <br/>
 
