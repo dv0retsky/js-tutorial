@@ -17,6 +17,7 @@
 7. [**Операторы сравнения**](./JS7_Comparison%20Operators/JS7_Comparison%20Operators.md)
 8. [**Условное ветвление**](./JS8_Conditional%20branching/JS8_Conditional%20branching.md)
 9. [**Логические операторы**](./JS9_Logical%20operators/JS9_Logical%20operators.md)
+10. [**Циклы**](./JS10_Cycles/JS10_Cycles.md)
 
 <br/>
 
