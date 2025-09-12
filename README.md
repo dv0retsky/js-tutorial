@@ -19,6 +19,7 @@
 9. [**Логические операторы**](./JS9_Logical%20operators/JS9_Logical%20operators.md)
 10. [**Циклы**](./JS10_Cycles/JS10_Cycles.md)
 11. [**Функции**](./JS11_Functions/JS11_Functions.md)
+12. [**Массивы**](./JS12_Arrays/JS12_Arrays.md)
 
 <br/>
 
