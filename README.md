@@ -20,6 +20,8 @@
 10. [**Циклы**](./JS10_Cycles/JS10_Cycles.md)
 11. [**Функции**](./JS11_Functions/JS11_Functions.md)
 12. [**Массивы**](./JS12_Arrays/JS12_Arrays.md)
+13. [**Методы массивов**](./JS13_Array%20Methods/JS13_Array%20Methods.md)
+13. [**Map и Set**](./JS14_Map%20Set/JS14_Map%20Set.md)
 
 <br/>
 
