@@ -7,6 +7,7 @@
 </div>
 
 # Оглавление курса | Фуллстек разработка
+## Глава №1. Основы JavaScript
 
 1. [**Введение в язык программирования JavaScript**](./JS1_Introduction/JS1_Introduction.md)
 2. [**Переменные**](./JS2_Basic%20syntax/JS2_Basic%20syntax.md)
@@ -21,7 +22,8 @@
 11. [**Функции**](./JS11_Functions/JS11_Functions.md)
 12. [**Массивы**](./JS12_Arrays/JS12_Arrays.md)
 13. [**Методы массивов**](./JS13_Array%20Methods/JS13_Array%20Methods.md)
-13. [**Map и Set**](./JS14_Map%20Set/JS14_Map%20Set.md)
+14. [**Map и Set**](./JS14_Map%20Set/JS14_Map%20Set.md)
+15. [**Перебор свойств объекта**](./JS15_Enumerating%20object%20properties/JS15_Enumerating%20object%20properties.md)
 
 <br/>
 
