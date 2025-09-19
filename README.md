@@ -25,6 +25,10 @@
 14. [**Map и Set**](./JS14_Map%20Set/JS14_Map%20Set.md)
 15. [**Перебор свойств объекта**](./JS15_Enumerating%20object%20properties/JS15_Enumerating%20object%20properties.md)
 
+## Глава №2. Браузер
+
+1. [**Браузерное окружение**](./JS16_Browser%20environment/JS16_Browser%20environment.md)
+
 <br/>
 
 <div align="center">
