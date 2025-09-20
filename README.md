@@ -28,6 +28,7 @@
 ## Глава №2. Браузер
 
 1. [**Браузерное окружение**](./JS16_Browser%20environment/JS16_Browser%20environment.md)
+2. [**DOM-дерево**](./JS17_DomTree/JS17_DomTree.md)
 
 <br/>
 
