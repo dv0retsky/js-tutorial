@@ -30,6 +30,7 @@
 1. [**Браузерное окружение**](./JS16_Browser%20environment/JS16_Browser%20environment.md)
 2. [**DOM-дерево**](./JS17_DomTree/JS17_DomTree.md)
 3. [**Навигация по DOM-элементам**](./JS18_Navigating%20DOM/JS18_Navigating%20DOM.md)
+4. [**Поиск элементов**](./JS19_Search%20for%20elements/JS19_Search%20for%20elements.md)
 
 <br/>
 
