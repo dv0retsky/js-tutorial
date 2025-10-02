@@ -31,6 +31,7 @@
 2. [**DOM-дерево**](./JS17_DomTree/JS17_DomTree.md)
 3. [**Навигация по DOM-элементам**](./JS18_Navigating%20DOM/JS18_Navigating%20DOM.md)
 4. [**Поиск элементов**](./JS19_Search%20for%20elements/JS19_Search%20for%20elements.md)
+5. [**Свойства узлов**](./JS20_Node%20properties/JS20_Node%20properties.md)
 
 <br/>
 
