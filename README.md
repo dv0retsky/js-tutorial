@@ -32,6 +32,7 @@
 3. [**Навигация по DOM-элементам**](./JS18_Navigating%20DOM/JS18_Navigating%20DOM.md)
 4. [**Поиск элементов**](./JS19_Search%20for%20elements/JS19_Search%20for%20elements.md)
 5. [**Свойства узлов**](./JS20_Node%20properties/JS20_Node%20properties.md)
+6. [**Атрибуты и свойства**](./JS21_Attributes%20and%20properties/Attributes%20and%20properties.md)
 
 <br/>
 
