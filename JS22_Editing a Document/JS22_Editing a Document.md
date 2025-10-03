@@ -40,14 +40,14 @@ DOM-узел можно создать двумя методами:
 : Создаёт новый *элемент* с заданным тегом:
 
 ```js
-    let div = document.createElement('div');
+let div = document.createElement('div');
 ```
 
 `document.createTextNode(text)`
 : Создаёт новый *текстовый узел* с заданным текстом:
 
  ```js
-    let textNode = document.createTextNode('А вот и я');
+let textNode = document.createTextNode('А вот и я');
 ```
     
 Большую часть времени нам нужно создавать узлы элементов, такие как `div` для сообщения.
