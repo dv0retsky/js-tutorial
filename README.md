@@ -34,6 +34,7 @@
 5. [**Свойства узлов**](./JS20_Node%20properties/JS20_Node%20properties.md)
 6. [**Атрибуты и свойства**](./JS21_Attributes%20and%20properties/Attributes%20and%20properties.md)
 7. [**Изменение документа**](./JS22_Editing%20a%20Document/JS22_Editing%20a%20Document.md)
+8. [**Стили и классы**](./JS23_Styles%20and%20classes/JS23_Styles%20and%20classes.md)
 
 <br/>
 
