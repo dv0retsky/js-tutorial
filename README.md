@@ -36,6 +36,7 @@
 7. [**Изменение документа**](./JS22_Editing%20a%20Document/JS22_Editing%20a%20Document.md)
 8. [**Стили и классы**](./JS23_Styles%20and%20classes/JS23_Styles%20and%20classes.md)
 9. [**Прокрутка элементов**](./JS24_Scrolling%20elements/JS24_Scrolling%20elements.md)
+10. [**Размеры и прокрутка окна**](./JS25_Window%20scrolling/JS25_Window%20scrolling.md)
 
 <br/>
 
