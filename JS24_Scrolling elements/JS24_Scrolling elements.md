@@ -160,7 +160,9 @@ function isHidden(elem) {
 
 Они включают в себя ширину области содержимого вместе с внутренними отступами `padding`, но без прокрутки:
 
-![](metric-client-width-height.svg)
+<div align="center">
+  <img alt="Project Demo" src="./metric-client-width-height.svg" />
+</div>
 
 На рисунке выше посмотрим вначале на высоту `clientHeight`.
 
