@@ -222,4 +222,25 @@ let scrollHeight = Math.max(
 
     ---
 
+## 😈 Задачи для практики
+
+### 🔹 Задание №1
+
+Создайте функцию `clear(elem)`, которая удаляет всё содержимое из elem.
+
+```html
+ <ol id="elem">
+  <li>Привет</li>
+  <li>Мир</li>
+</ol>
+
+<script>
+  function clear(elem) { /* ваш код */ }
+
+  clear(elem); // очищает список
+</script>
+```
+
+---
+
 <div align="center"> Made with ❤️ by <b>dv0retsky</b> </div>
