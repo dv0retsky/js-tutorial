@@ -37,6 +37,7 @@
 8. [**Стили и классы**](./JS23_Styles%20and%20classes/JS23_Styles%20and%20classes.md)
 9. [**Прокрутка элементов**](./JS24_Scrolling%20elements/JS24_Scrolling%20elements.md)
 10. [**Размеры и прокрутка окна**](./JS25_Window%20scrolling/JS25_Window%20scrolling.md)
+11. [**Браузерные события**](./JS26_Browser%20events/JS26_Browser%20events.md)
 
 <br/>
 
