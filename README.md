@@ -39,6 +39,7 @@
 10. [**Размеры и прокрутка окна**](./JS25_Window%20scrolling/JS25_Window%20scrolling.md)
 11. [**Браузерные события**](./JS26_Browser%20events/JS26_Browser%20events.md)
 12. [**Всплытие и погружение**](./JS27_Ascent%20and%20dive/JS27_Ascent%20and%20dive.md)
+13. [**Делегирование событий**](./JS28_Event%20delegation/JS28_Event%20delegation.md)
 
 <br/>
 
