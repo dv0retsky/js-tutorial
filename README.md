@@ -41,6 +41,11 @@
 12. [**Всплытие и погружение**](./JS27_Ascent%20and%20dive/JS27_Ascent%20and%20dive.md)
 13. [**Делегирование событий**](./JS28_Event%20delegation/JS28_Event%20delegation.md)
 14. [**Действия браузера**](./JS29_Browser%20Actions/JS29_Browser%20Actions.md)
+15. [**Генерация событий**](./JS30_Event%20generation/JS30_Event%20generation.md)
+
+## Глава №3. Продвинутый JavaScript
+
+
 
 <br/>
 
