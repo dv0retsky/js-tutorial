@@ -48,6 +48,7 @@
 1. [**Декораторы и переадресация вызова**](./JS31_Decorators/JS31_Decorators.md)
 2. [**Геттеры и сеттеры**](./JS32_Property/JS32_Property.md)
 3. [**Прототипное наследование**](./JS33_Inheritance/JS33_Inheritance.md)
+4. [**Колбэки**](./JS34_Callbacks/JS34_Callbacks.md)
 
 <br/>
 
