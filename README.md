@@ -46,6 +46,7 @@
 ## Глава №3. Продвинутый JavaScript
 
 1. [**Декораторы и переадресация вызова**](./JS31_Decorators/JS31_Decorators.md)
+2. [**Геттеры и сеттеры**](./JS32_Property/JS32_Property.md)
 
 <br/>
 
