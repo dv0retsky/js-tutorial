@@ -49,6 +49,7 @@
 2. [**Геттеры и сеттеры**](./JS32_Property/JS32_Property.md)
 3. [**Прототипное наследование**](./JS33_Inheritance/JS33_Inheritance.md)
 4. [**Колбэки**](./JS34_Callbacks/JS34_Callbacks.md)
+5. [**Промисы**](./JS35_Promises/JS35_Promises.md)
 
 <br/>
 
