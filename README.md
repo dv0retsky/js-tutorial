@@ -50,6 +50,7 @@
 3. [**Прототипное наследование**](./JS33_Inheritance/JS33_Inheritance.md)
 4. [**Колбэки**](./JS34_Callbacks/JS34_Callbacks.md)
 5. [**Промисы**](./JS35_Promises/JS35_Promises.md)
+6. [**Последовательность промисов**](./JS36_Promise%20Sequence/JS36_Promise%20Sequence.md)
 
 <br/>
 
