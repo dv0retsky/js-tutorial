@@ -238,7 +238,7 @@ let promise = fetch(url);
 Код ниже запрашивает файл `user.json` и загружает его содержимое с сервера:
 
 ```js
-fetch('/user.json')
+fetch('./user.json')
   // .then в коде ниже выполняется, когда удалённый сервер отвечает
   .then(function(response) {
     // response.text() возвращает новый промис,
@@ -269,7 +269,7 @@ fetch('user.json')
 
 ```js run
 // Запрашиваем user.json
-fetch('/user.json')
+fetch('./user.json')
   // Загружаем данные в формате json
   .then(response => response.json())
   // Делаем запрос к GitHub
@@ -296,7 +296,7 @@ fetch('/user.json')
 Примерно так:
 
 ```js run
-fetch('/user.json')
+fetch('./user.json')
   .then(response => response.json())
   .then(user => fetch(`https://api.github.com/users/${user.name}`))
   .then(response => response.json())
