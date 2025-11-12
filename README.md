@@ -53,6 +53,8 @@
 6. [**Последовательность промисов**](./JS36_Promise%20Sequence/JS36_Promise%20Sequence.md)
 7. [**Промисификация**](./JS37_Promisification/JS37_Promisification.md)
 
+## Глава №4
+
 <br/>
 
 <div align="center">
