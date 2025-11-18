@@ -52,8 +52,7 @@
 5. [**Промисы**](./JS35_Promises/JS35_Promises.md)
 6. [**Последовательность промисов**](./JS36_Promise%20Sequence/JS36_Promise%20Sequence.md)
 7. [**Промисификация**](./JS37_Promisification/JS37_Promisification.md)
-
-## Глава №4
+8. [**Знакомство с React**](./JS38_React/JS38_React.md)
 
 <br/>
 
