@@ -357,18 +357,26 @@ body {
   background: linear-gradient(135deg, #74b9ff 0%, #0984e3 100%);
   min-height: 100vh;
   color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .app {
   max-width: 800px;
+  width: 100%;
   margin: 0 auto;
   padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .app-header {
   text-align: center;
   margin-bottom: 30px;
   color: white;
+  width: 100%;
 }
 
 .app-header h1 {
@@ -388,17 +396,24 @@ body {
   border-radius: 15px;
   box-shadow: 0 4px 15px rgba(0,0,0,0.1);
   margin-bottom: 20px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .city-selector h2 {
   margin-bottom: 15px;
   color: #2d3436;
+  text-align: center;
 }
 
 .city-buttons {
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
 }
 
 .city-button {
@@ -429,12 +444,17 @@ body {
   padding: 25px;
   border-radius: 15px;
   box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .weather-display h2 {
   color: #2d3436;
   margin-bottom: 20px;
   text-align: center;
+  width: 100%;
 }
 
 .weather-card {
@@ -442,6 +462,8 @@ body {
   gap: 30px;
   align-items: center;
   flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
 }
 
 .weather-main {
@@ -465,12 +487,17 @@ body {
 .weather-details {
   flex: 1;
   min-width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .weather-details p {
   margin-bottom: 10px;
   padding: 8px 0;
   border-bottom: 1px solid #eee;
+  width: 100%;
+  text-align: center;
 }
 
 .loading, .error, .demo-info {
@@ -480,6 +507,7 @@ body {
   text-align: center;
   margin: 20px 0;
   box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  width: 100%;
 }
 
 .error {
@@ -492,21 +520,6 @@ body {
   color: #2d3436;
 }
 
-@media (max-width: 768px) {
-  .app {
-    padding: 10px;
-  }
-  
-  .city-buttons {
-    justify-content: center;
-  }
-  
-  .weather-card {
-    justify-content: center;
-    text-align: center;
-  }
-}
-
 .api-status {
   background: rgba(76, 175, 80, 0.2);
   color: #2e7d32;
@@ -517,6 +530,7 @@ body {
   font-weight: 500;
   backdrop-filter: blur(10px);
   border: 1px solid rgba(76, 175, 80, 0.3);
+  text-align: center;
 }
 
 .error {
@@ -550,6 +564,7 @@ body {
   margin-top: 10px;
   font-size: 0.9rem;
   opacity: 0.8;
+  text-align: center;
 }
 
 .data-source {
@@ -557,6 +572,7 @@ body {
   margin-top: 15px;
   color: rgba(255, 255, 255, 0.8);
   font-style: italic;
+  width: 100%;
 }
 
 .data-source small {
@@ -578,6 +594,25 @@ body {
   }
 }
 
+@media (max-width: 768px) {
+  .app {
+    padding: 10px;
+  }
+  
+  .city-buttons {
+    justify-content: center;
+  }
+  
+  .weather-card {
+    justify-content: center;
+    text-align: center;
+  }
+  
+  body {
+    padding: 10px;
+  }
+}
+
 @media (max-width: 480px) {
   .app-header h1 {
     font-size: 2rem;
@@ -595,6 +630,11 @@ body {
     flex: 1;
     min-width: 120px;
     font-size: 0.9rem;
+  }
+  
+  body {
+    align-items: flex-start;
+    padding: 5px;
   }
 }
 ```
