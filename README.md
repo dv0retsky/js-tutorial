@@ -53,6 +53,7 @@
 6. [**Последовательность промисов**](./JS36_Promise%20Sequence/JS36_Promise%20Sequence.md)
 7. [**Промисификация**](./JS37_Promisification/JS37_Promisification.md)
 8. [**Знакомство с React**](./JS38_React/JS38_React.md)
+9. [**Знакомство с Express**](./JS39_Express/JS30_Express.md)
 
 <br/>
 
