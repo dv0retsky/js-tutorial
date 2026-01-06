@@ -89,7 +89,7 @@ showMessage(); // Привет, Artur
 Например:
 
 ```js
-let userName = 'Вася';
+let userName = 'Artur';
 
 function showMessage() {
   userName = "Петя"; // (1) изменяем значение внешней переменной
