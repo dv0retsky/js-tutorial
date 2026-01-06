@@ -110,13 +110,13 @@ alert( userName ); // Петя, значение внешней переменн
 Если одноимённая переменная объявляется внутри функции, тогда она перекрывает внешнюю. Например, в коде ниже функция использует локальную переменную `userName`. Внешняя будет проигнорирована:
 
 ```js
-let userName = 'Вася';
+let userName = 'Rustam';
 
 function showMessage() {
 
-  let userName = "Петя"; // объявляем локальную переменную
+  let userName = "Artur"; // объявляем локальную переменную
 
-  let message = 'Привет, ' + userName; // Петя
+  let message = 'Привет, ' + userName; // Artur
   alert(message);
 }
 
